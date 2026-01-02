@@ -2,8 +2,9 @@
 # Description: Blocklist for blocking fonts!
 # Homepage: https://github.com/Mane10556/No-Fonts
 # License: https://github.com/Mane10556/No-Fonts/blob/main/LICENSE
+# Issues: https://github.com/Mane10556/No-Fonts/issues
 # Syntax: Domains
-
+#
 fonts.gstatic.com
 fonts.googleapis.com
 use.fonticons.com
